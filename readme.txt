@@ -9,3 +9,4 @@ to each D. 'IDF_curve.png' shows the final result and there are many information
 and R-square. 'Timeseries_negative.png' and 'timeseries_positive.png' show the timeseries of raw data and data without negative
 values.
 
+This is a climate-class exercise.
